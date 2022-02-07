@@ -1,0 +1,11 @@
+.Navbar__parent{
+    background-color:#0d6efd;
+    margin-bottom:30px;
+}
+
+.memory_btn{
+    text-decoration: none;
+    color: #111;
+    font-size: 20px;
+    font-weight: 400;
+}
